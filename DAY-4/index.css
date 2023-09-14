@@ -14,3 +14,13 @@ h1,h2 {
 img {
    width:100%;
 }
+footer {
+    margin-top:70px;
+    background-color:orange;
+    color:white;
+}
+footer p {
+      text-align:center;
+      padding-top:15px;
+      padding-bottom:15px;
+}
