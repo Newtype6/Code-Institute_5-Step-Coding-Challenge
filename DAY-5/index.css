@@ -1,6 +1,6 @@
-/* Adding an "index.css" file for centralised management of styling */
-/* Built on in Day-5, for applying further responsive styling and behaviour,
-   using a "desktop first" model */
+/* Day 4: Adding an "index.css" file for centralised management of styling */
+/* Built on in Day-5 and moved to DAY-5 folder, for applying further responsive styling
+   and behaviour, using a "desktop first" model */
 body {
   font-family:Arial;
   color:slategray;
